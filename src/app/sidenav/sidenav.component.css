@@ -1,0 +1,23 @@
+.mat-toolbar {
+    color: antiquewhite;
+    background-color: #c62828;
+    padding: 0px;
+    border: 0px;
+    top: 0;
+    width: auto;
+}
+
+.mat-sidenav-container {
+    height: 100%;
+}
+
+.mat-sidenav {
+    width: 200px;
+    background-color: #f4511e;
+}
+
+.topbar {
+    position: relative;
+    display: flex;
+    color: antiquewhite;
+}

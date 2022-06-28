@@ -1,0 +1,43 @@
+.intro {
+    font-size: 15px;
+    text-align: center;
+    background-image: url('/assets/green.jpg');
+    background-size: contain;
+    padding: 5px;}
+
+.title {
+    font-size: 30px;
+}
+
+.credits {
+    display: flex;
+    background-image: url('/assets/bg.jpg');
+    background-size: contain;
+    padding: 20px;
+    color: rgb(242, 238, 238);
+}
+
+
+.mat-card {
+    width: 250px;
+    height: 350px;
+    margin: 12px;
+}
+
+.mat-card .img {
+    margin: auto;
+    margin-bottom: 10px;
+    max-width: 300px;
+    max-height: 200px;
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.mat-card-header .mat-card-subtitle {
+    color: rgb(240, 177, 177);
+}
+
+.mat-card-content {
+    text-align: center;
+}
