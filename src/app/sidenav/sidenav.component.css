@@ -21,3 +21,7 @@
     display: flex;
     color: antiquewhite;
 }
+
+.audio {
+    margin: 20px;
+}
